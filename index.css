@@ -1,0 +1,20 @@
+html {width: 100%; margin: 5;}
+body {width: 100%; margin: 10;}
+header {
+	text-align: right;
+}
+h1 {width: 70%;
+	color: black;
+	text-align: right;}
+#logo {
+	clip-path: ellipse(33% 50%);
+ 	margin-right: auto;
+ 	display: block;}
+section {}
+p {
+    
+}
+
+#monimage { float: left; }
+#image {}
+section {display: flex;}
